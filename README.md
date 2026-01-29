@@ -93,7 +93,3 @@ Model je vyhodnocen pomocí:
 - Parciální F1 skóre pro každou třídu
 - Celkové F1 skóre
 - Matice záměn (10×10)
-
-## Datum vytvoření
-
-Říjen 2022
